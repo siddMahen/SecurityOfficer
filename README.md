@@ -13,6 +13,6 @@ SecurityOfficer
 
 * Simply
 
-    ‘‘‘#include"SecurityOfficer.h"‘‘‘
+‘‘‘#include"SecurityOfficer.h"‘‘‘
 
 in any of the classes where you will need it and use it like a singleton. 
