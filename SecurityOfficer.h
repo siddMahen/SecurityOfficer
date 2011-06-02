@@ -1,9 +1,8 @@
 //
 //  SecurityOfficer.h
-//  iMenu360
 //
-//  Created by Siddharth Mahendraker on 11-02-23.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Created by Siddharth Mahendraker
+//  Copyright 2011, All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
