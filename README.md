@@ -1,4 +1,5 @@
-#SecurityOfficer
+SecurityOfficer
+===
 
 <strong>A light framework that supports simple encryption and decryption on iOS.</strong>
 
@@ -10,4 +11,8 @@
 
 ###Usage:
 
-* Simply include SecurityOfficer in any of the classes where you will need it and use it like a singleton. 
+* Simply
+
+    #include"SecurityOfficer.h"
+
+in any of the classes where you will need it and use it like a singleton. 
