@@ -1,6 +1,6 @@
 #SecurityOfficer
 
-<strong>A simple framework for iOS, which allows for easy encryption and decryption.</strong>
+<strong>A light framework that supports simple encryption and decryption on iOS.</strong>
 
 ***
 
