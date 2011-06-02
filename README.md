@@ -1,10 +1,8 @@
-#SecurityOfficer
+###SecurityOfficer
 
 ##Requirements:
 
 * Link against the Foundation, Security and UIKit frameworks. 
-
-***
 
 ##Usage:
 
