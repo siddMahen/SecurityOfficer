@@ -11,8 +11,4 @@ SecurityOfficer
 
 ###Usage:
 
-* Simply
-
-‘‘‘#include"SecurityOfficer.h"‘‘‘
-
-in any of the classes where you will need it and use it like a singleton. 
+* Simply <pre><code>#include"SecurityOfficer.h"</pre></code> in any of the classes where you will need it and use it like a singleton. 
